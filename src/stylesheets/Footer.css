@@ -1,0 +1,9 @@
+.Footer{
+  display:flex;
+  padding: 13% 12%;
+  text-align: start
+}
+
+.Footer h2{
+  font-weight:lighter
+}

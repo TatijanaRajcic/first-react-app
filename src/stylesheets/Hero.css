@@ -1,0 +1,8 @@
+.Hero{
+  background-color: #1E2433;
+  color:white;
+  display:flex;
+  flex-wrap: wrap;
+  padding: 0% 5%;
+  height:100vh
+}

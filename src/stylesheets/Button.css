@@ -1,0 +1,11 @@
+.Button {
+  display:flex;
+  align-items:flex-start;
+}
+
+.Button button{
+  color: #1E2433;
+  font-size:1.5em;
+  padding: 10%;
+  border-radius:5%
+}
